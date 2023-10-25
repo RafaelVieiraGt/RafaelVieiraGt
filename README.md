@@ -5,7 +5,7 @@
 - 🤔 Buscando aprender novas tecnologias e desenvolvendo softwares.
 - 🎓 Estudando **Ciência da Computação** na <a href="https://unisagrado.edu.br/">UNISAGRADO</a>.
 - 💼 Buscando oportunidade de aplicar meus conhecimentos com eficiência
-- 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento com .NET**.
+- 🌱 &nbsp; Atualmente estudando **Desenvolvimento com .NET** e **Desenvolvimento Mobile**.
 - 💻 Apaixonado por desenvolvimento
   > Conhecimento sólido em Web.
 
