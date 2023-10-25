@@ -44,8 +44,8 @@
 
 <h2>Onde me encontrar</h2>
 
-[![Linkedin](https://img.shields.io/badge/-RafaelCamilliVieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-camilli-vieira-077355269/)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-rafaelcamillivieira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Linkedin](https://img.shields.io/badge/-RafaelCamilliVieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-camilli-vieira-077355269/)](https://www.linkedin.com/in/rafael-camilli-vieira-077355269/)
+[![Gmail Badge](https://img.shields.io/badge/-rafaelcamillivieira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:rafaelcamillivieira@gmail.com)
 
 
 <!---
