@@ -5,8 +5,8 @@
 - 🤔 Buscando aprender novas tecnologias e desenvolvendo softwares.
 - 🎓 Estudando **Ciência da Computação** na <a href="https://unisagrado.edu.br/">UNISAGRADO</a>.
 - 💼 Buscando oportunidade de aplicar meus conhecimentos com eficiência
-- 🌱 &nbsp; Atualmente estudando **Desenvolvimento com Spring**, **Desenvolvimento Mobile** e
-**Angular
+- 🌱 &nbsp; Atualmente estudando **Desenvolvimento com Spring** **Desenvolvimento Mobile**
+**Angular**
 - 💻 Apaixonado por desenvolvimento
   > Conhecimento sólido em Web.
 
