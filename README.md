@@ -2,11 +2,14 @@
 
 <h2>Sobre mim</h2>
 
-- 🤔 Buscando aprender novas tecnologias e desenvolvendo softwares.
+- 🤔 Buscando sempre aprender novas tecnologias e desenvolvendo softwares.
 - 🎓 Estudando **Ciência da Computação** na <a href="https://unisagrado.edu.br/">UNISAGRADO</a>.
-- 💼 Buscando oportunidade de aplicar meus conhecimentos com eficiência
-- 🌱 &nbsp; Atualmente estudando **Desenvolvimento com Spring** |  **Desenvolvimento Mobile** | 
+- 💼 Desenvolvedor de software Jr na empresa Zion Logtec 
+- 🌱 &nbsp; Atualmente atuando com **Desenvolvimento com Spring** | 
 **Angular**
+  **Desenvolvimento de dashboards com Grafana**
+  **Pentaho**
+  **PL/SQL e POSTGRESQL**
 - 💻 Apaixonado por desenvolvimento
   > Conhecimento sólido em Web.
 
