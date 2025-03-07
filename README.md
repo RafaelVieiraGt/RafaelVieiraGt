@@ -4,11 +4,8 @@
 
 - 🤔 Buscando sempre aprender novas tecnologias e desenvolvendo softwares.
 - 🎓 Estudando **Ciência da Computação** na <a href="https://unisagrado.edu.br/">UNISAGRADO</a>.
-- 💼 Desenvolvedor de software Jr na empresa Zion Logtec 
-- 🌱 &nbsp; Atualmente atuando com **Desenvolvimento com Spring** | 
-**Angular**
-  **Desenvolvimento de dashboards com Grafana**
-  **Pentaho**
+- 💼 Estagiário de Desenvolvimento na **CI&T** 
+- 🌱 &nbsp; Atualmente atuando com **Desenvolvimento com Spring** 
   **PL/SQL e POSTGRESQL**
 - 💻 Apaixonado por desenvolvimento
   > Conhecimento sólido em Web.
